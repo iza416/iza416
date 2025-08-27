@@ -1,4 +1,4 @@
-# Olá, sou a [Izadora]! 👋
+# Olá, sou a Izadora! 👋
 
  Sou uma estudante apaixonada por tecnologia e desenvolvimento de software. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e busco aprimorar minhas habilidades e conhecimentos a cada dia.
 
